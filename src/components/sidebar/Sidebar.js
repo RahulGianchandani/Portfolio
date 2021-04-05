@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import './Sidebar.css';
 import { HashLink as Link } from 'react-router-hash-link';
-
 import "font-awesome/css/font-awesome.min.css"; 
 import logo from '../images/SZABIST_LOGO.jpg'
 
