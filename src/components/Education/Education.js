@@ -45,8 +45,8 @@ class Education extends Component {
                                                     <MdWork />     
                                                 </div>
                                                 <div className={classes.label}>
-                                                <h2 >Internship</h2>
-                                                <p>Completed one month Internship in React Js with Internity Foundation</p>
+                                                <h2 >School</h2>
+                                                <p>OPF public school Larkana</p>
                                                 </div>
                                                 <div className={classes.timeline_entry_inner}><div  className={classes.timeline_icon_3||classes.color_none}></div></div>
                                             </article>
