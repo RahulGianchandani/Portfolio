@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.fd15493d.chunk.css",
+    "main.js": "/Portfolio/static/js/main.71a86200.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.71a86200.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.554e0ebb.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.554e0ebb.js.map",
+    "static/css/2.7b5ee57a.chunk.css": "/Portfolio/static/css/2.7b5ee57a.chunk.css",
+    "static/js/2.1872060d.chunk.js": "/Portfolio/static/js/2.1872060d.chunk.js",
+    "static/js/2.1872060d.chunk.js.map": "/Portfolio/static/js/2.1872060d.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/2.7b5ee57a.chunk.css.map": "/Portfolio/static/css/2.7b5ee57a.chunk.css.map",
+    "static/css/main.fd15493d.chunk.css.map": "/Portfolio/static/css/main.fd15493d.chunk.css.map",
+    "static/js/2.1872060d.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.1872060d.chunk.js.LICENSE.txt",
+    "static/media/Hello.d8479248.jpg": "/Portfolio/static/media/Hello.d8479248.jpg",
+    "static/media/Pencil.7d7824c6.jpg": "/Portfolio/static/media/Pencil.7d7824c6.jpg",
+    "static/media/SZABIST_LOGO.1e8a20c4.jpg": "/Portfolio/static/media/SZABIST_LOGO.1e8a20c4.jpg",
+    "static/media/font-awesome.min.css": "/Portfolio/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554e0ebb.js",
+    "static/css/2.7b5ee57a.chunk.css",
+    "static/js/2.1872060d.chunk.js",
+    "static/css/main.fd15493d.chunk.css",
+    "static/js/main.71a86200.chunk.js"
+  ]
+}
